@@ -1,0 +1,1 @@
+A repository containing Python code and programs for some basic Computer Vision techniques. 
